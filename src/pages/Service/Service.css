@@ -1,0 +1,14 @@
+.service{
+    background-color: rgb(239, 149, 84);
+    border-radius: 0 50% 0 50%;
+    border: 3px solid black;
+}
+
+.service h1{
+    text-align: center;
+    padding: 10rem 0 10rem 0;
+    background: url(./pexels-photo-4622889.webp);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    font-size: 15rem;
+}

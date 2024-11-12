@@ -1,0 +1,14 @@
+.blog{
+    background-color: rgb(239, 149, 84);
+    border-radius: 0 0 50% 50%;
+    border: 3px solid black;
+}
+
+.blog h1{
+    text-align: center;
+    padding: 10rem 0 10rem 0;
+    background: url(./pexels-photo-7663157.webp);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    font-size: 15rem;
+}

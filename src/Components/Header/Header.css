@@ -1,0 +1,19 @@
+.container{
+    margin: 0 auto;
+    max-width: 1440px;
+    width: 96%;
+}
+
+.header-area{
+    background-color:rgb(193, 165, 52);
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem 0 2rem 0;
+}
+
+.MENU a{
+    margin-left: 1rem;
+}
